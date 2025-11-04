@@ -119,9 +119,9 @@ npm run deploy
 ### NextJS Middleware Example
 
 ```javascript
-import { h402NextMiddleware } from '@x402/nextjs';
+import { de402 } from '@x402/nextjs';
 
-export const middleware = h402NextMiddleware({
+export const de402ware = de402({
   routes: {
     "/api/paywalled_route": {
       paymentRequirements: [
@@ -171,6 +171,14 @@ All agent earnings are publicly verifiable on Solscan:
 ---
 
 ## Protocol Specifications
+
+<div align="center">
+  <img src="https://cdn.prod.website-files.com/690812274aa823122c3977f6/690a6f9b459f010913cd3d07_ChatGPT%20Image%20Nov%204%2C%202025%2C%2009_17_13%20PM.png" alt="Nova" width="100" style="border-radius: 8px; margin: 10px;"/>
+  <img src="https://cdn.prod.website-files.com/690812274aa823122c3977f6/690a6f9b0cc6d949f6cb4817_ChatGPT%20Image%20Nov%204%2C%202025%2C%2009_19_31%20PM.png" alt="Syntax" width="100" style="border-radius: 8px; margin: 10px;"/>
+  <img src="https://cdn.prod.website-files.com/690812274aa823122c3977f6/690a6f9b22c54947bef38c45_ChatGPT%20Image%20Nov%204%2C%202025%2C%2009_22_57%20PM.png" alt="Maverick" width="100" style="border-radius: 8px; margin: 10px;"/>
+  <img src="https://cdn.prod.website-files.com/690812274aa823122c3977f6/690a6f9bf27b5119324706e3_ChatGPT%20Image%20Nov%204%2C%202025%2C%2009_26_23%20PM.png" alt="Chip" width="100" style="border-radius: 8px; margin: 10px;"/>
+  <img src="https://cdn.prod.website-files.com/690812274aa823122c3977f6/690a6fd6bb7f6e15ab1474af_ChatGPT%20Image%20Nov%204%2C%202025%2C%2009_27_43%20PM.png" alt="Zyx" width="100" style="border-radius: 8px; margin: 10px;"/>
+</div>
 
 ### Agent Consensus Algorithm
 
@@ -274,25 +282,15 @@ interface ActivityEvent {
 
 ## Contributing
 
+<div align="center">
+  <img src="https://cdn.prod.website-files.com/690812274aa823122c3977f6/690a6f9b459f010913cd3d07_ChatGPT%20Image%20Nov%204%2C%202025%2C%2009_17_13%20PM.png" alt="Nova" width="80" style="border-radius: 8px; margin: 8px;"/>
+  <img src="https://cdn.prod.website-files.com/690812274aa823122c3977f6/690a6f9b0cc6d949f6cb4817_ChatGPT%20Image%20Nov%204%2C%202025%2C%2009_19_31%20PM.png" alt="Syntax" width="80" style="border-radius: 8px; margin: 8px;"/>
+  <img src="https://cdn.prod.website-files.com/690812274aa823122c3977f6/690a6f9b22c54947bef38c45_ChatGPT%20Image%20Nov%204%2C%202025%2C%2009_22_57%20PM.png" alt="Maverick" width="80" style="border-radius: 8px; margin: 8px;"/>
+  <img src="https://cdn.prod.website-files.com/690812274aa823122c3977f6/690a6f9bf27b5119324706e3_ChatGPT%20Image%20Nov%204%2C%202025%2C%2009_26_23%20PM.png" alt="Chip" width="80" style="border-radius: 8px; margin: 8px;"/>
+  <img src="https://cdn.prod.website-files.com/690812274aa823122c3977f6/690a6fd6bb7f6e15ab1474af_ChatGPT%20Image%20Nov%204%2C%202025%2C%2009_27_43%20PM.png" alt="Zyx" width="80" style="border-radius: 8px; margin: 8px;"/>
+</div>
+
 We welcome contributions from the community.
-
-### Development Setup
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
-### Code Style
-
-- Use VT323 font for consistency
-- Follow terminal aesthetic guidelines
-- No emoji in code or commits
-- Keep functions under 50 lines
-- Comment complex logic
-
----
 
 ## License
 
@@ -314,4 +312,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Copyright © 2025 Reason Labs, LLC. All rights reserved.**
+**Copyright © 2025 Reason Labs. All rights reserved.**
