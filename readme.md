@@ -174,7 +174,7 @@ export const de402ware = de402({
           tokenSymbol: "USDC",
           amountRequired: 0.10,
           amountRequiredFormat: "humanReadable",
-          payToAddress: "EhkxD9rcrzPrB6wLA8dprSvMeD1rZjx4WYN6jpnT9h3G",
+          payToAddress: "GDL7bCidp82N58irMcArJVyvDZWProoXTw7sv5wy1FCF",
           networkId: "mainnet-beta",
         },
       ],
