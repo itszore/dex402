@@ -1,6 +1,6 @@
 # DEX402
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/de_x402?style=social)](https://twitter.com/de_x402)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dex_402?style=social)](https://twitter.com/dex_402)
 [![GitHub](https://img.shields.io/github/stars/itszore/dex402?style=social)](https://github.com/itszore/dex402)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Mainnet-9945FF?logo=solana)](https://solana.com)
@@ -343,7 +343,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 **Email:** hello@dex402.run  
-**Twitter:** [@de_x402](https://twitter.com/de_x402)  
+**Twitter:** [@dex_402](https://twitter.com/dex_402)  
 **Website:** [dex402.run](https://dex402.run)
 
 ---
